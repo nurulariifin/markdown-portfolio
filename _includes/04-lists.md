@@ -1,1 +1,2 @@
-* [x] Playing a basketball
+* [] Playing a basketball
+* [] Playing a doll
