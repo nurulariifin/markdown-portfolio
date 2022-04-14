@@ -1,2 +1,2 @@
-* [] Playing a basketball
-* [] Playing a doll
+**[x] Playing a basketball**
+_[x] Playing a doll_
