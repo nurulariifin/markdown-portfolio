@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Nurul Arifin*
+_Nurul Arifin_
+
+**Nurul Arifin**
+__Nurul Arifin__
+
+_**Nurul Arifin**_
